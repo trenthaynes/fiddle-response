@@ -1,2 +1,2 @@
 # fiddle-response
-prepared fiddle responese
+prepared fiddle responses
